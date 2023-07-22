@@ -1,1 +1,3 @@
-# result-summary-component
+# Results summary component
+
+- Project from Frontend Mentor
